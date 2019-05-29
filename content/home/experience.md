@@ -17,28 +17,55 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Software engineer II"
+  company = "Akamai Technologies, Inc."
+  company_url = "https://www.akamai.com/"
+  location = "San Francisco, CA"
+  date_start = "2019-07-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """Incoming full-time engineer to the platform security group.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Masters student"
+  company = "Cornell University"
+  company_url = "https://www.cs.cornell.edu/"
+  location = "Ithaca, NY"
+  date_start = "2018-08-01"
+  date_end = "2019-05-01"
+  description = """Studied a curriculum focused on applying programming language theory to:
+
+  * information flow control for validating non-interfering programs
+  * programmable network switches
+  """
+
+[[experience]]
+  title = "Software engineering intern"
+  company = "Akamai Technologies, Inc."
+  company_url = "https://www.akamai.com/"
+  location = "Cambridge, MA"
+  date_start = "2018-05-01"
+  date_end = "2018-08-01"
+  description = """Was a member of the platform security group where I built a self-updating search engine application (along with a custom query DSL) from scratch, powered by Elasticsearch.
+  """
+
+[[experience]]
+  title = "Teaching assistant"
+  company = "Cornell University"
+  company_url = "https://www.cs.cornell.edu"
+  location = "Ithaca, NY"
+  date_start = "2016-08-01"
+  date_end = "2019-05-01"
+  description = """Served as a teaching assistant for Cornell's course on Operating Systems for 5 semesters. Honored for outstanding work in teaching all semesters.
+
+  Responsibilities included:
+
+  * Hosting office hours & answering questions on an internal online forum
+  * Developing a github enterprise framework for coursework management
+  * Developing assignments and autograding
+  * Grading exams
+  """
 
 +++
