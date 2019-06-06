@@ -69,3 +69,9 @@ user_groups:
 ---
 
 Peter is a recent graduate from [Cornell University](https://www.cornell.edu/) with a masters degree in [computer science](https://www.cs.cornell.edu/). In July 2019, he will be joining the platform security group at [Akamai Technologies](https://www.akamai.com/).
+
+Current project: a software-simulated, programmable network switch based on the [Portable Switch Architecture (PSA)](https://p4.org/p4-spec/docs/PSA.html) for the P4 programming language.
+
+This site is currently still under construction...
+
+<!-- Current projects include: a software-simulated networking switch built using the [Portable Switch Architecture (PSA)](https://p4.org/p4-spec/docs/PSA.html), and a thread scheduler that prioritizes tasks based on the [lattice model of security](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.84.5776&rep=rep1&type=pdf) [Denning 1976] to control timing channels caused by the act of scheduling. -->

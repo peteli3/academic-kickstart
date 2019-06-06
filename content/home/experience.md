@@ -60,11 +60,12 @@ date_format = "Jan 2006"
   date_end = "2019-05-01"
   description = """Served as a teaching assistant for Cornell's course on Operating Systems for 5 semesters. Honored for outstanding work in teaching all semesters.
 
-  Responsibilities included:
+  Responsibilities:
 
-  * Hosting office hours & answering questions on an internal online forum
+  * Hosting office hours
+  * Answering questions on Piazza (online Q & A forum for students)
   * Developing a github enterprise framework for coursework management
-  * Developing assignments and autograding
+  * Developing assignments and automated grading
   * Grading exams
   """
 
